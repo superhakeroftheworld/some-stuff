@@ -1,0 +1,3 @@
+lscpu - detailed overview of system
+nproc - number of kernels
+free -g - momery in gb
