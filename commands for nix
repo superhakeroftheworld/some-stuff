@@ -1,3 +1,9 @@
 lscpu - detailed overview of system
 nproc - number of kernels
 free -g - momery in gb
+
+top, jobs, ps - info about processes, 100% CPU - 1 kernel (as I understand)
+python 1.py & - run in background
+fg %1 - возврат процесса в обычный режим
+
+top -p PID - выводит развернутую инфу о процессе
